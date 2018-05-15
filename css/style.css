@@ -1,0 +1,37 @@
+h1 {
+    padding: 10px;
+    Margin-top: 15px;
+    border: black 10px dashed;
+    text-align: center;
+}
+
+h2 {
+   
+    
+}
+
+body {
+  text-align: center;
+  
+}
+
+body li {font-size: 25px;
+  display: inline-block;
+  border: black 3px solid;
+  margin: 25px;
+  box-shadow: 3px 4px;
+  
+}
+
+buttons {
+  max-width: 75%;
+  border: green 3px solid;
+  
+}
+
+li{ background-color: lime; 
+    border-radius: 5px
+    
+  
+ 
+}
